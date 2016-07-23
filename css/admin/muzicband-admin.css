@@ -1,0 +1,57 @@
+/*
+ * customizer Theme Instructions Panel style
+ */
+li#accordion-section-muzicband_important_links h3.accordion-section-title, li#accordion-section-muzicband_important_links h3.accordion-section-title:focus { background-color: #162937 !important; color: #fff !important; }
+li#accordion-section-muzicband_important_links h3.accordion-section-title:hover { background-color: #142d46 !important; color: #fff !important; }
+li#accordion-section-muzicband_important_links h3.accordion-section-title:after { color: #fff !important; }
+/* Upsell button CSS */
+.themegrill-pro-info,
+.customize-control-muzicband-important-links a {
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#8fc800+0,8fc800+100;Green+Flat+%232 */
+  background: #142d46;
+  color: #fff;
+  display: block;
+  margin: 15px 0 0;
+  padding: 5px 0;
+  text-align: center;
+  font-weight: 600;
+}
+
+.customize-control-muzicband-important-links a{
+  padding: 8px 0;
+}
+
+.themegrill-pro-info:hover,
+.customize-control-muzicband-important-links a:hover {
+  color: #ffffff;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#006e2e+0,006e2e+100;Green+Flat+%233 */
+  background:#ff4a1c;
+}
+
+/*
+ * customizer layout animated border style
+ */
+#muzicband-img-container .muzicband-radio-img-img {
+	border: 3px solid #DEDEDE;
+	margin: 0 5px 5px 0;
+	cursor: pointer;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+#muzicband-img-container .muzicband-radio-img-selected {
+	border: 3px solid #AAA;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+input[type=checkbox]:before {
+	content: '';
+	margin: -3px 0 0 -4px;
+}
+.tg-social-wrap {
+	display: none;
+}
+.tg-social-show {
+	display: block;
+}

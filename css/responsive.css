@@ -1,0 +1,53 @@
+@media (max-width: 1900px) { 
+
+	 
+}
+
+@media (max-width: 1800px) {
+
+	.owl-prev { 
+	    top: -270px;
+	}
+
+	.owl-next { 
+	    top: -270px;
+	} 
+
+
+}
+
+@media (max-width: 1400px) {
+
+	.owl-prev { 
+	    top: -220px;
+	}
+
+	.owl-next { 
+	    top: -220px;
+	} 
+
+
+}
+
+@media (max-width: 1200px) { 
+
+	.owl-prev { 
+	    bottom: 240px;
+	}
+
+	.owl-next { 
+	    bottom: 240px;
+	} 
+
+} 
+
+@media (max-width: 991px) { 
+
+@media (max-width: 767px) { 
+
+@media (max-width: 624px) { 
+
+@media (max-width: 480px) { 
+
+}
+
